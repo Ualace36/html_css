@@ -9,13 +9,12 @@
 
 
 header{
-    padding: 20px;
+padding: 20px;
     background-color:rgb(15, 10, 10);
     text-align: center;
     font-family: "Roboto", sans-serif;
     color: cornsilk;
-    grid-area: h; 
-    position: sticky;
+    grid-area: h;
 }
 article{
     grid-area: v;
@@ -71,7 +70,7 @@ footer{
     position: relative;
     left: 28%;
     bottom: 1%;
-} 
+}
 .corpo{
     padding: 5px;
     margin: 0px;
